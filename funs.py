@@ -1,5 +1,9 @@
 """
 All of my commonly-used functions!
+
+Import as: 
+! wget -q -nc https://raw.githubusercontent.com/abcmdmd/abcmdmd/refs/heads/main/funs.py
+
 Table of contents (ctrl+F):
 1. read in google sheets from urls: google_sheet_to_input(url)
 """
